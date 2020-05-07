@@ -1,7 +1,7 @@
 def sortcheck(a):
     l = len.a
     j=1
-    for j in range(0,l):
+    for j in range(0,a):
         if a[j]==a[j-1]+1==a[j-2]+2:
             print("FOUND IT!")
         else:
