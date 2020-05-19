@@ -21,7 +21,7 @@ while g1!=a:
                 print("Match {}!!".format(i+j))
             else:
                 print("No match at all")
-    g11 = input("Enter another  guess")
+    gg1 = input("Enter another  guess")
     g1 = int(gg1)
 if g1==a:
     print("Bingo!!!")
